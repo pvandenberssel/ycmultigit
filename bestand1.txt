@@ -1,6 +1,7 @@
-type maar een zin // Pim
+type maar een zin // Pim // Nog wat 
 
 
 
-tweede zin // Pim
+tweede zin // Pim Nogwat
+
 //Hallo dit is Jasper
